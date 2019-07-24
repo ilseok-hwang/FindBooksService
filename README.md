@@ -1,5 +1,14 @@
 # Coding test
 
+**********************
+빌드 결과물 
+용량 문제로 구글 드라이브에 올렸습니다. 
+파일명 : find_books_service.war
+구글 드라이브 링크 
+https://drive.google.com/drive/folders/1tT8iYJ0U8kEmfWsZWXX3d31GyZX4_0p9?usp=sharing
+
+***********************
+
 
 ○ 기본 요구사항
 　 1. 회원가입/로그인
