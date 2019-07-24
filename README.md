@@ -1,4 +1,4 @@
-# kakaotest
+# Coding test
 
 
 ○ 기본 요구사항
@@ -9,7 +9,7 @@
     
     comment : 1. Spring security + JPA 를 이용한 회원 로그인 처리
               2. BCryptPasswordEncoder 해시 방식을 이용한 암호화 처리
-              3. 회원 등록 / 로그인 기능 구현
+              3. 회원 등록 / 로그인 / 로그아웃 기능 구현
               4. 오류 처리(회원 등록 시 중복 방지, 로그인 오류 메시지 출력, 기본 validation check(회원ID, password 필수, 이메일 주소 패턴 검증)
               5. 책 검색, 검색이력, 인기키워드는 로그인 필수로, 비로그인 접근 시 로그인 화면으로 이동
               -----------------
@@ -69,3 +69,8 @@
 
 
     comment : 1. java 8, spring boot 사용, maven 기반, WebClient를 이용한 rest 통신 사용, H2 인메모리 사용, JPA 구현, javascript AJAX를 이용한 SPA(Single Page Application)구현
+
+
+
+○ Opensource
+1. 부트스트랩 - 기본 레이아웃을 사용하고자 최소 라이브러리 참조 bootstrap.min.css, bootstrap.bundle.min.js 사용
